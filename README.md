@@ -1,1 +1,1 @@
-# Range-Queries
+All cses range querie problems solution.
